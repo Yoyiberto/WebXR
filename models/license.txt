@@ -1,0 +1,11 @@
+Model Information:
+* title:	emperor penguin
+* source:	https://sketchfab.com/3d-models/emperor-penguin-310f1d21cf534fd0bcf073aa9b08a740
+* author:	Marcel Porsiel (https://sketchfab.com/Marcemellow)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "emperor penguin" (https://sketchfab.com/3d-models/emperor-penguin-310f1d21cf534fd0bcf073aa9b08a740) by Marcel Porsiel (https://sketchfab.com/Marcemellow) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
