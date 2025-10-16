@@ -5,5 +5,5 @@ It showcases the dynamic loading and display of 3D penguin assets in a navigable
 
 The core goal is to provide a lightweight, accessible example of how WebXR can bring immersive AR content to the web, eliminating the need for native app installations.
 <p align="center">
-  <img src="https://github.com/Yoyiberto/RobotExplosiveSim/blob/a2adc5fc42eda466a4a85868ec829230e5e0d912/UR_Sim_1.gif?raw=true" alt="Simulation GIF" width="60%">
+  <img src="https://github.com/Yoyiberto/WebXR/blob/2f66504ec98ad6872ac0afc0fa05c6428e43f0ad/Penguins.jpg" alt="Simulation GIF" width="60%">
 </p>
